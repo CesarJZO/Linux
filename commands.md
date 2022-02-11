@@ -1,3 +1,7 @@
+## Index
+- [Most common ones](#most-common-ones)
+- [Some Advanced](#some-advanced)
+
 ## Most common ones
 
 Remove a file
@@ -16,6 +20,7 @@ $ mv 'filename_or_directory' /destination/root
 <br>
 
 Rename a file (same for directories)
+
 ~~~bash
 $ mv 'filename' 'newname'
 ~~~
@@ -33,8 +38,9 @@ Create files
 $ touch 'filename'
 ~~~
 
-
 ---
+
+## Some Advanced
 
 Install something
 
