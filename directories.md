@@ -73,10 +73,6 @@ Get a file absolute path
 $ readlink -f 'filename'
 ~~~
 
-<br>
-
-Print absolute path of a file
-
 ~~~bash
 $ readlink -f ../file/relative/path
 ~~~
