@@ -1,3 +1,5 @@
+## Installs
+
 Install something
 
 ~~~bash
@@ -14,11 +16,17 @@ $ whereis 'software name'
 
 ***
 
-### .NET
+## GNU C Compiler
+
+```bash
+$ sudo apt install build-essential
+```
+
+## .NET
 
 [Link to download](https://stackoverflow.com/questions/69842779/permision-denied-for-dotnet)
 
-### OBS
+## OBS
 
 FFmpeg is required
 
